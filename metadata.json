@@ -1,0 +1,7 @@
+{
+  "name": "4/2 done",
+  "description": "Nền tảng quản trị lớp học và phát triển năng lực học sinh dựa trên dữ liệu 5D tích hợp AI Giáo viên chủ nhiệm tại Wellspring Hanoi International Bilingual School.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
